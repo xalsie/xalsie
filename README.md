@@ -4,21 +4,19 @@
 </h1>
 
 ### Languages
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/xalsie)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/xalsie)
 [![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=PHP)](https://github.com/xalsie)
-[![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/xalsie)
 [![LUA](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua&logoColor=blue)](https://github.com/xalsie)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/xalsie)
 
 ### Frameworks, Platforms and Libraries
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/legrizzly)
 [![VueJS](https://img.shields.io/badge/vuejs-black?style=for-the-badge&logo=vue.js)](https://github.com/xalsie)
-[![svelte](https://img.shields.io/badge/svelte-black?style=for-the-badge&logo=svelte)](https://github.com/xalsie)
+[![Svelte](https://img.shields.io/badge/svelte-black?style=for-the-badge&logo=svelte)](https://github.com/xalsie)
 [![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/xalsie)
 [![Socket.io](https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io)](https://github.com/xalsie)
 [![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://hub.docker.com/u/legrizzly)
 [![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=Symfony)](https://hub.docker.com/u/legrizzly)
-[![SASS](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://github.com/xalsie)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)](https://github.com/xalsie)
